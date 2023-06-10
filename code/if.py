@@ -1,0 +1,1 @@
+print(ord('a'), ord('A'), ord('\0'), ord('8'))
